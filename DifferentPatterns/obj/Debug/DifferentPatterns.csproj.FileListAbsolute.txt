@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\DifferentPatterns\DifferentPatterns\bin\Debug\DifferentPatterns.exe.config
+C:\Users\andre\source\repos\DifferentPatterns\DifferentPatterns\bin\Debug\DifferentPatterns.exe
+C:\Users\andre\source\repos\DifferentPatterns\DifferentPatterns\bin\Debug\DifferentPatterns.pdb
+C:\Users\andre\source\repos\DifferentPatterns\DifferentPatterns\obj\Debug\DifferentPatterns.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\DifferentPatterns\DifferentPatterns\obj\Debug\DifferentPatterns.Form1.resources
+C:\Users\andre\source\repos\DifferentPatterns\DifferentPatterns\obj\Debug\DifferentPatterns.Properties.Resources.resources
+C:\Users\andre\source\repos\DifferentPatterns\DifferentPatterns\obj\Debug\DifferentPatterns.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\DifferentPatterns\DifferentPatterns\obj\Debug\DifferentPatterns.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DifferentPatterns\DifferentPatterns\obj\Debug\DifferentPatterns.exe
+C:\Users\andre\source\repos\DifferentPatterns\DifferentPatterns\obj\Debug\DifferentPatterns.pdb

@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\DifferentPatterns\FrozenMountainAssessment\obj\Debug\FrozenMountainAssessment.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DifferentPatterns\FrozenMountainAssessment\obj\Debug\FrozenMountainAssessment.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\DifferentPatterns\FrozenMountainAssessment\bin\Debug\FrozenMountainAssessment.exe.config
+C:\Users\andre\source\repos\DifferentPatterns\FrozenMountainAssessment\bin\Debug\FrozenMountainAssessment.exe
+C:\Users\andre\source\repos\DifferentPatterns\FrozenMountainAssessment\bin\Debug\FrozenMountainAssessment.pdb
+C:\Users\andre\source\repos\DifferentPatterns\FrozenMountainAssessment\obj\Debug\FrozenMountainAssessment.exe
+C:\Users\andre\source\repos\DifferentPatterns\FrozenMountainAssessment\obj\Debug\FrozenMountainAssessment.pdb
